@@ -53,7 +53,13 @@ I'm a Computer Science student passionate about programming, Artificial Intellig
 > *Built supervised classification models using Logistic Regression and K-NN to classify categorized data.*
 - **Tech:** Python, Pandas, Scikit-learn, Seaborn
 - **Repository:** ([View Project](https://colab.research.google.com/drive/1DWAKPd9oVWGAJYHzJwGdCC1ohOFfYF5I#scrollTo=BHUO-EVK1a4K))
-  
+
+  #### 📊 Clustering & Feature Scaling
+> *Implemented unsupervised learning models using K-Means and Hierarchical Clustering along with feature scaling techniques.*
+- **Tech:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
+- **Repository:** ([View Project](https://colab.research.google.com/drive/1naK4HSbleUujRdA6ViIyimElaOCuUT69))
+
+- 
 
 ### 📬 Connect With Me
 
