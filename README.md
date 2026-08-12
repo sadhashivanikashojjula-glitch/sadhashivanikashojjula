@@ -70,7 +70,7 @@ I'm a Computer Science student passionate about programming, Artificial Intellig
 ### 🔢 MNIST Handwritten Digit Classification
 * **Description:** Created a Deep Learning computer vision model to recognize handwritten digits (0–9) using neural networks.
 * **Tech Stack:** Python, TensorFlow / Keras, NumPy, Matplotlib
-* **Links:** [Repository](https://github.com/sadhashivanikashojula-glitch/mnist-digit-classification) | [Run in Colab](https://colab.research.google.com/drive/1vCduB7n0l5S3t6FIdYPtLdbiXBURHgsU)
+* **Links:** [Repository](https://github.com/sadhashivanikashojjula-glitch/mnist-digit-classification) | [Run in Colab](https://colab.research.google.com/drive/1vCduB7n0l5S3t6FIdYPtLdbiXBURHgsU)
 * 
 
 ### 📬 Connect With Me
