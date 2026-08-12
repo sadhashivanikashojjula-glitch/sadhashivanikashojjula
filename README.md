@@ -64,7 +64,7 @@ I'm a Computer Science student passionate about programming, Artificial Intellig
 ### 🎬 IMDB Movie Review Sentiment Analysis
 * **Description:** Built a Natural Language Processing project to classify movie reviews as positive or negative using Transformer models and a Gradio interface.
 * **Tech Stack:** Python, NLP, Hugging Face Transformers, Gradio, PyTorch / TensorFlow
-* **Links:** [Repository](https://github.com/sadhashivanikashojula-glitch/IMDB-Movie-analysis) | [Run in Colab](https://colab.research.google.com/drive/1wNHogdhmesR-5GwIix9vPuyqpDEsAInA)
+* **Links:** [Repository](https://github.com/sadhashivanikashojjula-glitch/IMDB-Movie-analysis) | [Run in Colab](https://colab.research.google.com/drive/1wNHogdhmesR-5GwIix9vPuyqpDEsAInA)
 ---
 
 ### 🔢 MNIST Handwritten Digit Classification
