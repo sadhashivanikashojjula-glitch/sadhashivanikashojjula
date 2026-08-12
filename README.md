@@ -73,6 +73,12 @@ I'm a Computer Science student passionate about programming, Artificial Intellig
 * **Links:** [Repository](https://github.com/sadhashivanikashojjula-glitch/mnist-digit-classification) | [Run in Colab](https://colab.research.google.com/drive/1vCduB7n0l5S3t6FIdYPtLdbiXBURHgsU)
 * 
 
+🎬 <b>Movie Data Analysis </b> 
+Description: Analyzed movie data to understand ratings, genres, and box-office collections.
+Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn
+
+Links: [Repository]() | [RUN IN COLAB](https://colab.research.google.com/drive/1AsSN5yLjnjw1m7YMuBWOpHtd0j-yHVLz#scrollTo=Zl9Rn6kzcSWX)
+
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
