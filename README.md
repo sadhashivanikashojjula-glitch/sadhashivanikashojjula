@@ -59,7 +59,19 @@ I'm a Computer Science student passionate about programming, Artificial Intellig
 - **Tech:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
 - **Repository:** ([View Project](https://colab.research.google.com/drive/1naK4HSbleUujRdA6ViIyimElaOCuUT69))
 
-- 
+  ## 📌 Featured Projects
+
+### 🎬 IMDb Movie Review Sentiment Analysis
+* **Description:** Built a Natural Language Processing project to classify movie reviews as positive or negative using Transformer models and a Gradio interface.
+* **Tech Stack:** Python, NLP, Hugging Face Transformers, Gradio, PyTorch / TensorFlow
+* **Links:** [Repository](https://github.com/sadhashivanikashojula-glitch/IMDB-Movie-analysis) | [Run in Colab][(https://colab.research.google.com/drive/1vCduB7n0l5S3t6FIdYPtLdbiXBURHgsU)]
+---
+
+### 🔢 MNIST Handwritten Digit Classification
+* **Description:** Created a Deep Learning computer vision model to recognize handwritten digits (0–9) using neural networks.
+* **Tech Stack:** Python, TensorFlow / Keras, NumPy, Matplotlib
+* **Links:** [Repository](https://github.com/sadhashivanikashojula-glitch/mnist-digit-classification) | [Run in Colab](https://colab.research.google.com/drive/1vCdub7n0I5S3t6FldYPtLdbiXBURHgsU)
+* 
 
 ### 📬 Connect With Me
 
