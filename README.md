@@ -77,6 +77,12 @@ I'm a Computer Science student passionate about programming, Artificial Intellig
 Description: Analyzed movie data to understand ratings, genres, and box-office collections.
 Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn
 
+**🗣️ Text-to-Speech Voice Generator**
+* **Description:** Built a Python-based Text-to-Speech voice generator using gTTS to convert custom text inputs into playable audio files.
+* **Tech Stack:** Python, gTTS, IPython.display
+* **Links:** [Repository](https://github.com/yourusername/your-repo) | [Run in Colab](https://colab.research.google.com)
+
+
 Links: [Repository](https://github.com/sadhashivanikashojjula-glitch/Data-visualisation-) | [RUN IN COLAB](https://colab.research.google.com/drive/1AsSN5yLjnjw1m7YMuBWOpHtd0j-yHVLz#scrollTo=Zl9Rn6kzcSWX)
 
 ### 📬 Connect With Me
